@@ -1,0 +1,1 @@
+{"Bard": [5, 4, 9], "Sona": [2, 5, 7], "Senna": [1, 4, 5], "Janna": [2, 2, 4], "Soraka": [3, 1, 4], "Galio": [2, 2, 4], "Zilean": [1, 2, 3], "Taric": [1, 2, 3], "Nautilus": [1, 2, 3], "Thresh": [1, 1, 2], "Fiddlesticks": [2, 0, 2], "Alistar": [1, 1, 2], "Rakan": [0, 1, 1], "Poppy": [0, 1, 1]}
